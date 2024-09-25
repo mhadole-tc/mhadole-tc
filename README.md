@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhadole-tc. I work at Tucows
+- 👋 Hi, I’m @mhadole-tc. 
 - 📫 You can reach me by visiting my web site: https://mayurhadole.com
 
 
